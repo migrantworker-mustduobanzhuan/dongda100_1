@@ -1,10 +1,5 @@
 # dongda100_1
 东北大学C语言编程
-
-
-
-
-
 #include<stdio.h>
 int i,j,k,m[300],n;
 int main()
